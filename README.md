@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm En3X aka Maneesh Pandey</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate developer from Nepal</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=en3x&show_icons=true&locale=en&layout=compact" alt="en3x" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=en3x&count_private=true&include_all_commits=true&theme=dark&locale=en" alt="en3x" /></p>
