@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=en3x&show_icons=true&locale=en&layout=compact" alt="en3x" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=en3x&show_icons=true&count_private=true&include_all_commits=true&theme=dark&locale=en" alt="en3x" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=en3x&count_private=true&include_all_commits=true&theme=dark&locale=en" alt="en3x" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=en3x&label=Profile%20views&color=0e75b6&style=flat" alt="en3x" /> </p>
 
 <p align="left"> <a href="https://twitter.com/_maneesh_pandey" target="blank"><img src="https://img.shields.io/twitter/follow/_maneesh_pandey?logo=twitter&style=for-the-badge" alt="_maneesh_pandey" /></a> </p>
