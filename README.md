@@ -2,16 +2,17 @@
 <h3 align="center">A passionate developer from Nepal</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=en3x&show_icons=true&locale=en&layout=compact" alt="en3x" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=en3x&count_private=true&include_all_commits=true&theme=dark&locale=en" alt="en3x" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=en3x&label=Profile%20views&color=0e75b6&style=flat" alt="en3x" /> </p>
 
 <p align="left"> <a href="https://twitter.com/_maneesh_pandey" target="blank"><img src="https://img.shields.io/twitter/follow/_maneesh_pandey?logo=twitter&style=for-the-badge" alt="_maneesh_pandey" /></a> </p>
+<br>
+<br><br><br>
+<p>Three things I believe in: </p>
+- Knowledge is power
 
-- I am currently learning **Communication over BT**
+- Learning process never stops
 
-- 📫 How to reach me **maneeshpandey977@gmail.com**
-
-- ⚡ Fun fact **I am a bit Workhoholic**
+- My comparision is with myself and I have to be better version of myself
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
