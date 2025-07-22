@@ -9,7 +9,6 @@ Currently working on making some react packages and chrome extensions to make li
 ---
 ### 📚 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=En3X&show_icons=true&theme=radical)
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=En3X&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
